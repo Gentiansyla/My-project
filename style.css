@@ -1,14 +1,13 @@
 div {
-			background-color: red;
+background-color: red;
+}
+p  {
+color: #ffffff;
 
-		}
-		p  {
-			color: #ffffff;
-
-		}
-		#first-paragraph {
-			color:rgb(99,99,99);
-		}
-		.second-div{
-			font-size: 26px;
-		}
+}
+#first-paragraph {
+color:rgb(99,99,99);
+}
+.second-div{
+font-size: 26px;
+}
